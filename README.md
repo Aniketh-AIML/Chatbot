@@ -5,7 +5,7 @@ This is a test chatbot using ollama llama3 model.
 
 
   <br>
-  Ollama Model = llama3
+  Ollama Model = llama3(open source)
 
 Run ollama serve in terminal for it to work. 
 
